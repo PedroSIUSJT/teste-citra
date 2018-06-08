@@ -1,6 +1,4 @@
-Projeto Conta
-
-Projeto utiliza:
+<h1>Projeto Conta</h1>
 
 * Este projeto é uma API REST escrita em Spring Boot com Java utilizando Maven com um banco de dados em memória (H2DataBase)
 
