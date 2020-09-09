@@ -15,5 +15,5 @@ POST   http://localhost:9090/conta   Insere uma nova conta
 }
 ```
 
-Obs: O banco de dados por ser em memória terá a vida da aplicação, ou seja, as novas contas inseridas viveram
+Obs: O banco de dados por ser em memória terá a vida da aplicação, ou seja, as novas contas inseridas viverão
 enquanto a aplicação estiver viva.
